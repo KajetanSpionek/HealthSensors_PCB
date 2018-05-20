@@ -1,0 +1,6 @@
+Component Rule Check Report for : C:\Users\Kajetan\Desktop\Praca inzynierska\altium\HealthSensors\Lib\uC.SchLib
+
+
+Name                Errors
+------------------------------------------------------------------
+ESP-12E             (Duplicate Pin Number : Normal: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1) 
